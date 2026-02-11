@@ -7,8 +7,8 @@ This project is a simple website created using HTML, CSS, and JavaScript.Each te
 - CSS → Styling and layout design
 
 - JavaScript → Interactivity and functionality
-  📁 Project Structure
 
+## Project structure
  ## git-assignment
 │
 ├── index.html        # Main HTML file
