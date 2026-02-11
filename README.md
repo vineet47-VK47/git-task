@@ -8,14 +8,15 @@ This project is a simple website created using HTML, CSS, and JavaScript.Each te
 
 - JavaScript → Interactivity and functionality
 
-## Project structure
- ## git-assignment
+## 📁 Project Structure
+
+```
+git-task/
 │
-├── index.html        # Main HTML file
-├── README.md         # Project description
-│
-├── css/              # CSS branch files
+├── index.html
+├── README.md
+├── css/
 │   └── style.css
-│
-├── js/               # JavaScript branch files
-     └── script.js
+├── js/
+│   └── script.js
+```
